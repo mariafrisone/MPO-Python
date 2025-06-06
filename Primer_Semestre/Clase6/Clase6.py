@@ -33,7 +33,7 @@ mi_lista = [1,2,3]
 mi_lista.insert(1,25)
 print(mi_lista)
 
-#quito el número que quiero no posición, si hay mas de uno elimina el primer dato de izq a derecha
+#quito el número que quiero, no posición, si hay mas de uno elimina el primer dato de izq a derecha
 mi_lista.remove(3)
 print(mi_lista)
 
