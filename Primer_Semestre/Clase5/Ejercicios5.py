@@ -37,6 +37,7 @@ print(no_veo_registro)
 
 #Creame un conjunto a partir de una lista con duplicados
 numeritos=[7,8,4,7,1,2,3,5,7,2,6,8,4]
+
 #Convierto a conjunto. Porque asi elimino duplicidades
 conjuntito=set(numeritos)
 print(conjuntito)

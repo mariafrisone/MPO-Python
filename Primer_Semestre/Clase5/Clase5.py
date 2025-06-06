@@ -42,17 +42,28 @@ print("El número convertido a texto quedaría así: ", texto)
 # Muestra la longitud de la cadena.
 # Convierte la cadena a mayúsculas y minúsculas.
 
+cadena = "Maria Marta Frisone"
+print("El primer caracter es:", cadena[:1], " y el último: ", cadena[-1:])
+print("Longitud de la cadena: ", len(cadena))
+print("Cadena en mayúsculas: ", cadena.upper(), " y cadena en minúscula: ", cadena.lower())
+
 # Ejercicio 5: Operaciones con Cadenas y Números
 # 📌 Objetivo: Realizar operaciones matemáticas con cadenas y números.
 # Concatenar cadenas con números usando str().
 # Multiplicar una cadena para repetirla varias veces.
+
+edad = 39
+print("Mi nombre es ", cadena,  "y tengo: ", str(edad), "años")
 
 # Ejercicio 6: Operaciones con Caracteres y Códigos ASCII
 # 📌 Objetivo: Explorar caracteres y su representación en ASCII.
 # Obtén el código ASCII de la letra 'A'.
 # Convierte un número en su carácter ASCII correspondiente.
 
-
+letra = "A"
+print("El codigo ascii de la letra A es: ", ord(letra))
+caracter = 64
+print("El carácter correspondiente al numero 64 es: ", chr(caracter))
 
 # Ejercicio 7: Evaluación de Expresiones Lógicas
 # 📌 Objetivo: Trabajar con operadores lógicos (and, or, not).
