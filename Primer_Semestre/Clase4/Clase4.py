@@ -1,9 +1,6 @@
 #Define cinco variables numéricas distintas (int, float, complex)
 # y realiza diversas operaciones matemáticas (potenciación, división entera, módulo).
 # Imprime los resultados formateados en una cadena clara y descriptiva.
-from tokenize import String
-
-from Proyectos.Clase3.Clase3 import palabras
 
 num1, num2, num3, num4, num5 = 30, 10, 2.5, 4, 4+2j
 resultado = (f"Potencia: {num1**num2}, División entera: {num1//num2}, "
@@ -51,7 +48,7 @@ print(indexacion)
 # # y texto.
 
 entero, flotante, complejo = 12, 345.254, 5+3j
-formato=(f"Entero: {entero}, Flotante: {flotante}, Complejo: {complejo}, "
+formato=(f"Entero: {entero}, Flotante: {flotante:2f}, Complejo: {complejo}, "
          f"Notación científica: {flotante:.2e}")
 print(formato)
 
