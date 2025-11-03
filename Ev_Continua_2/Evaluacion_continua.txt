@@ -1,0 +1,7 @@
+Libros pertenecientes a mi biblioteca:
+Autor: John Katzenbach, Nombre: El Psicoanalista, Año: 2002
+Autor: Alex Michaelides, Nombre La Paciente Silenciosa, Año: 2019
+Autor: Matt Heig, Nombre: La Biblioteca de la Medianoche, Año: 2024
+Autor: Sebastián Fitzek, Nombre: Terapia. Año: 2008
+Autor: Gabriel Rolón, Nombre: Palabras Cruzadas, Año: 2013
+Autor: Brian Weiss, Nombre: Muchas vidas, muchos maestros, Año: 1988
